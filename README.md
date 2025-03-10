@@ -14,12 +14,12 @@ This project implements **face detection** using **OpenCV's Haar Cascade Classif
 ## 🛠️ Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/face-detection.git
+   git clone https://github.com/sumit3162/face-detection.git
 
 ## 🛠️ Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/face-detection.git
+   git clone https://github.com/sumit3162/face-detection.git
 Navigate to the project folder:
 cd face-detection
 install dependencies:
